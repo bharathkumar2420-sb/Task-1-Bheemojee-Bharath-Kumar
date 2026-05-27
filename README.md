@@ -11,9 +11,3 @@ Python Lists,
 Loops,
 Conditional Statements,
 and User Input Handling.
-
-What I Learned:
-How to store multiple items using lists,
-Basic backend logic,
-Menu-driven programs,
-and Data management using Python.
