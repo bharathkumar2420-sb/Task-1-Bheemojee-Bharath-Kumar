@@ -11,3 +11,6 @@ Python Lists,
 Loops,
 Conditional Statements,
 and User Input Handling.
+
+Output Screenshot:
+[Result](images/task1.png)
